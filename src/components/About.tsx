@@ -29,11 +29,11 @@ export default function About() {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-deep-pink mb-4">
-            About Beauty Care Center
+            About Beauty Care Salon
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-gold to-deep-pink mx-auto mb-6"></div>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            Beauty Care Center is dedicated to providing premium beauty services including skincare, makeup artistry,
+            Beauty Care Salon is dedicated to providing premium beauty services including skincare, makeup artistry,
             hair styling, and bridal beauty treatments. Our goal is to help every woman look and feel her best.
           </p>
         </div>
@@ -67,7 +67,7 @@ export default function About() {
 
           <div>
             <h3 className="text-3xl font-bold text-gray-800 mb-6">
-              Why Choose Beauty Care Center?
+              Why Choose Beauty Care Salon?
             </h3>
             <ul className="space-y-4">
               {[

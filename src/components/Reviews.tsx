@@ -18,7 +18,7 @@ export default function Reviews() {
       name: 'Divya Krishnan',
       image: 'https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=300',
       rating: 5,
-      review: 'I got my bridal makeup done here and I looked stunning! Thank you Beauty Care Center.',
+      review: 'I got my bridal makeup done here and I looked stunning! Thank you Beauty Care Salon.',
     },
     {
       name: 'Neha Sharma',

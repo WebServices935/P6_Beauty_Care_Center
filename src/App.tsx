@@ -13,13 +13,13 @@ import Footer from './components/Footer';
 function App() {
   useEffect(() => {
     document.documentElement.style.scrollBehavior = 'smooth';
-    document.title = 'Beauty Care Center - Premium Beauty Services';
+    document.title = 'Beauty Care Salon - Premium Beauty Services';
 
     const ogTitle = document.querySelector('meta[property="og:title"]');
     if (!ogTitle) {
       const meta = document.createElement('meta');
       meta.setAttribute('property', 'og:title');
-      meta.content = 'Beauty Care Center - Premium Beauty Services';
+      meta.content = 'Beauty Care Salon - Premium Beauty Services';
       document.head.appendChild(meta);
     }
 

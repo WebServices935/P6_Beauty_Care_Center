@@ -42,7 +42,7 @@ export default function Navigation() {
         <div className="flex items-center space-x-3 cursor-pointer" onClick={() => scrollToSection('home')}>
           <img
             src="/ChatGPT_Image_Mar_11,_2026,_10_30_36_PM.png"
-            alt="Beauty Care Center"
+            alt="Beauty Care Salon"
             className="h-12 w-auto"
           />
         </div>

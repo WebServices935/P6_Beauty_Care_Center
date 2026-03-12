@@ -17,7 +17,7 @@ export default function Contact() {
         <div className="grid md:grid-cols-2 gap-12 max-w-6xl mx-auto">
           <div className="space-y-6">
             <div>
-              <h3 className="text-3xl font-bold text-gray-800 mb-6">Beauty Care Center</h3>
+              <h3 className="text-3xl font-bold text-gray-800 mb-6">Beauty Care Salon</h3>
               <div className="space-y-4">
                 <div className="flex items-start space-x-4 bg-gradient-to-br from-pink-50 to-white p-4 rounded-xl">
                   <MapPin className="text-deep-pink flex-shrink-0 mt-1" size={24} />
@@ -107,7 +107,7 @@ export default function Contact() {
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="Beauty Care Center Location"
+              title="Beauty Care Salon Location"
             ></iframe>
           </div>
         </div>

@@ -27,7 +27,7 @@ export default function Footer() {
             <div className="mb-6">
               <img
                 src="/ChatGPT_Image_Mar_11,_2026,_10_30_36_PM.png"
-                alt="Beauty Care Center"
+                alt="Beauty Care Salon"
                 className="h-16 w-auto mb-4"
               />
               <p className="text-gray-300 leading-relaxed">
@@ -117,7 +117,7 @@ export default function Footer() {
         <div className="border-t border-gray-700 pt-8">
           <div className="text-center">
             <p className="text-gray-400 flex items-center justify-center space-x-2">
-              <span>&copy; 2026 Beauty Care Center - All Rights Reserved</span>
+              <span>&copy; 2026 Beauty Care Salon - All Rights Reserved</span>
               <span className="inline-flex items-center">
                 <span className="mx-2">|</span>
                 <span>Made with</span>

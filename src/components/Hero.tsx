@@ -32,7 +32,7 @@ export default function Hero() {
           </div>
 
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-deep-pink via-magenta to-deep-pink bg-clip-text text-transparent leading-tight">
-            Beauty Care Center
+            Beauty Care Salon
           </h1>
 
           <p className="text-2xl md:text-3xl text-gray-700 mb-4 font-elegant italic">
