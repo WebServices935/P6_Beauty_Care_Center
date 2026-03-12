@@ -7,28 +7,28 @@ export default function Beauticians() {
       role: 'Senior Makeup Artist',
       experience: '12 Years',
       specialization: 'Bridal & Party Makeup',
-      image: 'https://images.pexels.com/photos/3065209/pexels-photo-3065209.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: '/images/Priya Sharma.png',
     },
     {
       name: 'Anjali Reddy',
       role: 'Bridal Makeup Specialist',
       experience: '10 Years',
       specialization: 'Traditional & Contemporary Bridal',
-      image: 'https://images.pexels.com/photos/3785077/pexels-photo-3785077.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: '/images/Anjali Reddy.png',
     },
     {
       name: 'Kavita Menon',
       role: 'Hair Styling Expert',
       experience: '8 Years',
       specialization: 'Hair Styling & Treatments',
-      image: 'https://images.pexels.com/photos/3756165/pexels-photo-3756165.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: '/images/Kavita Menon.png?auto=compress&cs=tinysrgb&w=400',
     },
     {
       name: 'Deepa Nair',
       role: 'Skin Care Therapist',
       experience: '9 Years',
       specialization: 'Facials & Skin Treatments',
-      image: 'https://images.pexels.com/photos/3760373/pexels-photo-3760373.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: '/images/Deepa Nair.png?auto=compress&cs=tinysrgb&w=400',
     },
   ];
 
